@@ -2,10 +2,6 @@
 
 O **Singleton** é um padrão de projeto criacional que garante que uma classe tenha **apenas uma instância** durante a execução da aplicação e fornece um ponto de acesso global a essa instância.
 
-## 📚 Objetivo do estudo
-
-Este exemplo foi desenvolvido para compreender o padrão **Singleton**, sua implementação em Java e situações em que sua utilização pode ser adequada.
-
 ## 🎯 Quando usar?
 
 O Singleton pode ser utilizado quando é necessário compartilhar uma única instância de determinado recurso, como:

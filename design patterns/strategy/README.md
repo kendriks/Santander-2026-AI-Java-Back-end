@@ -4,10 +4,6 @@ O **Strategy** é um padrão de projeto comportamental que permite **definir dif
 
 A ideia principal é separar cada comportamento em uma classe própria, permitindo trocar a estratégia sem alterar a classe principal.
 
-## 📚 Objetivo do estudo
-
-Este exemplo foi desenvolvido para compreender o padrão **Strategy**, sua estrutura, aplicação em Java e como utilizar diferentes comportamentos de forma flexível e desacoplada.
-
 ## 🎯 Quando usar?
 
 O Strategy é útil quando:
